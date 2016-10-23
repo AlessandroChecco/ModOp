@@ -7,4 +7,4 @@ javascript:(function(){var jsCode=document.createElement('script');jsCode.setAtt
 ```
 
 ## Chrome extension
-Alternatively, it is possible to install a Chrome extension by installing the foldeer [ModOp](ModOp) into Chrome extension manager.
+Alternatively, it is possible to install a Chrome extension by installing the folder [ModOp](ModOp) into Chrome extension manager.
