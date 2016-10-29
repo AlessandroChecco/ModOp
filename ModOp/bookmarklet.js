@@ -1,1 +1,1 @@
- (function () { var jsCode=document.createElement('script');jsCode.setAttribute('src', 'https://dl.dropboxusercontent.com/u/13815598/ModOp.js');document.body.appendChild(jsCode);}());
+ (function () { var jsCode=document.createElement('script');jsCode.setAttribute('src', 'https://raw.githubusercontent.com/AlessandroChecco/ModOp/master/ModOp.js');document.body.appendChild(jsCode);}());
